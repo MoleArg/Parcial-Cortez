@@ -1,8 +1,5 @@
 const db = require('../database/models');
 
-//Aqui tienen otra forma de llamar a cada uno de los modelos
-const Movies = db.Movie;
-
 const moviesController = {
     'list': (req, res) => {
         db.Movie.findAll()
