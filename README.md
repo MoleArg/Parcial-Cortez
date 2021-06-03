@@ -1,5 +1,5 @@
 # Parcial Metodologias de sistemas
- - Parcial 1
+ - Parcial N° 1
  - Profesor: Alberto Cortez
 # Nota
 - Ejecutar comando npm i en ambas carpetas
